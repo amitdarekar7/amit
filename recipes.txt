@@ -3,6 +3,10 @@ Welcome to amit kitchen
 kheer
 pasta
 
+beans 
+pizza
+
+Done my changes
 Final copy
 
 thanku :)
