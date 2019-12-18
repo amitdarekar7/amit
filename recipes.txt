@@ -3,6 +3,7 @@ Welcome to amit kitchen
 kheer
 pasta
 
-
+beans 
+pizza
 
 thanku :)
